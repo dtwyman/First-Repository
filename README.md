@@ -1,6 +1,6 @@
 First-Repository
 ================
 
-Test repository
+This is a practice repository.
 
-Comment #1
+* This is my first change
